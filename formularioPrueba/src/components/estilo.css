@@ -1,0 +1,8 @@
+.centrar{
+    text-align: center;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+  }
